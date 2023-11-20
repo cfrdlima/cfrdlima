@@ -26,4 +26,10 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ### Estatísticas do meu perfil:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfrdlima&hide)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cfrdlima}/count.svg" /></p> 
+<br>
+</div>
+
 
